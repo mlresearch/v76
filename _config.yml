@@ -1,0 +1,64 @@
+---
+booktitle: Proceedings of the 28th International Conference on Algorithmic Learning
+  Theory
+shortname: ALT
+volume: 76
+year: '2017'
+start: 2017-10-15
+end: 2017-10-17
+url: http://proceedings.mlr.press
+conference_number: '28'
+published: 2017-10-11
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ALT-2017
+month: 0
+cycles: false
+editor:
+- given: Steve
+  family: Hanneke
+- given: Lev
+  family: Reyzin
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 28th International Conference on Algorithmic Learning Theory
+    Held in Kyoto University, Kyoto, Japan on 15-17 October 2017
+
+  Published as Volume 76 by the Proceedings of Machine Learning Research on 11 October 2017.
+
+  Volume Edited by:
+    Steve Hanneke
+    Lev Reyzin
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 15--17 Oct
+baseurl: "/v76"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v76
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Algorithmic Learning Theory
+  url: 
+  location: Kyoto University, Kyoto, Japan
+  dates:
+  - 2017-10-15
+  - 2017-10-16
+  - 2017-10-17
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v76/alt17.bib
